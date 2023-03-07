@@ -14,12 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/kiltonpisli">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiltonpisli&theme=radical" />
-</a>
-<a href="https://github.com/kiltonpisli">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kiltonpisli&show_icons=true&theme=radical" />
-</a>
+<div style="display: flex;justify-content: center;flex-wrap: wrap;gap: 20px;padding: 20px;align-items: center;">
+  <a href="https://github.com/kiltonpisli">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kiltonpisli&amp;show_icons=true&amp;theme=radical">
+  </a>
+  <a href="https://github.com/kiltonpisli">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiltonpisli&amp;theme=radical&amp;layout=compact">
+  </a>
+</div>
 
 
 ### Languages
