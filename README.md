@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="display: flex;justify-content: center;flex-wrap: wrap;gap: 20px;padding: 20px;align-items: center;">
+<div align="center">
   <a href="https://github.com/kiltonpisli">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=kiltonpisli&amp;show_icons=true&amp;theme=radical">
   </a>
@@ -52,6 +52,9 @@ Here are some ideas to get you started:
 
 ### 🔥 Github Streaks
 
-<a href="https://github.com/kiltonpisli">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kiltonpisli&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/></a>
+<div align="center"
+  <a href="https://github.com/kiltonpisli">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiltonpisli&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+  </a>
+</div>
 
