@@ -26,6 +26,13 @@ Here are some ideas to get you started:
 
 ### Languages
 
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)
+![HTML5](https://img.shields.io/badge/-HTML-000?&logo=html5)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=white)
+<!--
+=============================================
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
@@ -34,10 +41,30 @@ Here are some ideas to get you started:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+-->
 
 
 ### Technologies
 
+
+![ReactJS](https://img.shields.io/badge/-ReactJS-000?&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-000?&logo=react)
+![Redux](https://img.shields.io/badge/-Redux%20/%20Redux%20Toolkit-000?&logo=Redux)
+![MUI](https://img.shields.io/badge/-MUI-000?&logo=MUI)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-000?&logo=TailwindCSS)
+![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jQuery)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-000?&logo=express)
+![Mongodb](https://img.shields.io/badge/-Mongodb-000?&logo=Mongodb)
+![Postgresql](https://img.shields.io/badge/-Postgresql-000?&logo=Postgresql)
+![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-000?&logo=phpMyAdmin)
+![Apache](https://img.shields.io/badge/-Apache-000?&logo=Apache)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=WordPress)
+<!--
+==========================================================================
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
@@ -47,7 +74,7 @@ Here are some ideas to get you started:
 ![Influxdb](https://img.shields.io/badge/-Influxdb-000?&logo=Influxdb)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Springboot](https://img.shields.io/badge/-Springboot-000?&logo=Springboot)
-
+-->
 
 
 ### 🔥 Github Streaks
