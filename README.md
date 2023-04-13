@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, I'm Kilton 👋
+
+##### As a frontend developer, I make it a priority to stay up-to-date with the latest trends and best practices in the field. I'm always seeking ways to enhance my skills and knowledge, especially in areas such as accessibility, performance optimization, and cross-browser compatibility.
+
+
+
 <!--
 **kiltonpisli/kiltonpisli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
